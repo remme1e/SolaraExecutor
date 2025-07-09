@@ -6,7 +6,6 @@
 
 
 <h1 align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/quantum-computing.png" width="45" height="45"/>
   SOLARA <sup><em>v3</em></sup> - QUANTUM EXECUTION ENGINE
   <img src="https://img.icons8.com/color/48/000000/processor.png" width="45" height="45"/>
 </h1>
