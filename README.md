@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e47c1eec-8594-4147-bd51-5d61bdedb6c6" alt="Solara Quantum Injection Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,255,255,0.3);">
+  <img src="https://github.com/user-attachments/assets/4bd0e572-1b44-4786-8fee-bc33035fcb1d" alt="Solara Quantum Injection Demo" width="600" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,255,255,0.3);">
 </p>
+
+
+
 
 <h1 align="center">
   <img src="https://img.icons8.com/fluency/48/000000/quantum-computing.png" width="45" height="45"/>
